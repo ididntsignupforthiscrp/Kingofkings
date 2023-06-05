@@ -4,23 +4,7 @@
 	<head>
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 	
-	<style>
-	img {
-  float: left;
-  border: 1px dotted black;
-  margin: 0px 0px 15px 20px;
-}
-body {
-    background-image: url(https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/9/54435/files/2016/06/background-1-1024x549.jpg);
-    background-position: center center;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: cover;
-    }
-span {
-  background-color: ;
-}
-</style>
+	
 			<title>About Me</title>
 	</head>
 	<body> 
