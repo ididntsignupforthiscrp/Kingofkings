@@ -1,4 +1,4 @@
-# Kingofkings
+
 <!DOCTYPE html>
 <html>
 	<head>
